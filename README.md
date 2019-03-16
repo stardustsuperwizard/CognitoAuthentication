@@ -1,14 +1,12 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Cognito Authentication with Lambda
 
+## About
+This is a basic Authentication and Authorization flow using AWS services API Gateway, Cognito, and Lambda. 
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+To build this:
+* Import the Lambda files into AWS Lambda
+* Setup a Cognito User Pool with an account
+* Create API Gateways for all Lambda functions
+         
+## License
+MIT...enjoy!
